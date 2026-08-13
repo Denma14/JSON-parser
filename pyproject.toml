@@ -1,0 +1,3 @@
+[tool.pyright]
+venvPath = "C:/envs"
+venv = "ml_env"
