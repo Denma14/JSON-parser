@@ -1,2 +1,4 @@
+pyproject.toml
+pyrightconfig.json
 tests.zip
 tests/
